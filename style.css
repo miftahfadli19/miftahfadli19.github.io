@@ -552,12 +552,11 @@ f
   }
   /* hero */
   .foto {
-    padding-top: 100px !important;
+    padding-top: 0px !important;
     margin-bottom: 10px;
-    width: 80%;
   }
   
-  .blob {
+/*   .blob {
     position: absolute;
     top: 85%;
     left: 50%;
@@ -568,7 +567,7 @@ f
     left: 15%;
     margin-top: 100px;
     top: 100%;
-  }
+  } */
 
   .hero-row {
     display: flex;
