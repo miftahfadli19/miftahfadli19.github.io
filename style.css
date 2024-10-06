@@ -552,22 +552,24 @@ f
   }
   /* hero */
   .foto {
-    padding-top: 0px !important;
-    margin-bottom: 10px;
+    padding-top: 100px !important;
+    margin-bottom: 100px;
+    
   }
   
-/*   .blob {
+  .blob {
     position: absolute;
-    top: 85%;
+    top: 80%;
     left: 50%;
   }
 
   .foto img {
     width: 73%;
     left: 15%;
-    margin-top: 100px;
+    margin-top: 90px;
     top: 100%;
-  } */
+  }
+
 
   .hero-row {
     display: flex;
